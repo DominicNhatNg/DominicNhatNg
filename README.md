@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Design Verification Engineer
 
-<!--
-**DominicNhatNg/DominicNhatNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a passionate Design Verification Engineer with a strong focus on building reliable and high-quality hardware systems. I believe in staying patient, keeping at it, and always learning!
 
-Here are some ideas to get you started:
+## 💼 Current Role
+**Design Verification Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- SystemVerilog
+- UVM (Universal Verification Methodology)
+- Bash Shell, C Shell
+- Makefile
+
+## 🚀 Favorite Projects
+- Verification IP (VIP) development
+
+## 📝 About Me
+Stay patient and keep going → Keep Learning
+
+## 📫 Contact
+tiennhat.nguyen@veronlabs.com
+
+---
