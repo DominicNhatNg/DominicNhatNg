@@ -8,7 +8,7 @@ Hi, I'm a passionate Design Verification Engineer with a strong focus on buildin
 ## 🛠️ Technologies & Tools
 - SystemVerilog
 - UVM (Universal Verification Methodology)
-- Bash Shell, C Shell
+- Bash Shell, C Shell, Z Shell
 - Makefile
 
 ## 🚀 Favorite Projects
